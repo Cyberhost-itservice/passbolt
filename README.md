@@ -20,5 +20,7 @@ If your data are truly yours, you should be able to control where they are locat
 Once downloaded and installed, Passbolt server is yours:
 
     Fully autonomous, no 3rd party service: Passbolt server works as a standalone component. It is fully open source and doesn’t require any third party       service to be functional by default. \
+    
     Behind your firewall: Passbolt doesn’t require an internet connection access to be functional. It can be completely isolated, protected by your own         firewall rules. \
+    
     No trackers: We cannot track what Passbolt servers are doing, we don’t know where they are and don’t want to know. Our servers do not send usage data       or any form of analytics to us.
