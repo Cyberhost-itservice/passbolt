@@ -30,3 +30,6 @@ Once downloaded and installed, Passbolt server is yours:
     No trackers: We cannot track what Passbolt servers are doing, we don’t know where they are and don’t want to know. 
     Our servers do not send usage data       
     or any form of analytics to us.
+    
+    
+    https://www.passbolt.com/security
