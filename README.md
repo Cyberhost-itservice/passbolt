@@ -33,3 +33,5 @@ Once downloaded and installed, Passbolt server is yours:
     
     
     https://www.passbolt.com/security
+
+    https://www.passbolt.com/docs/hosting/install/ce/ubuntu/
